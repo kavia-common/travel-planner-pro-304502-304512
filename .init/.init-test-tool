@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/travel-planner-pro-304502-304512/travel_planner_backend"
+}
